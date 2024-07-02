@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin.
-- 👀 I’m interested in Machine learning and AI .
+- 👀 I’m interested in Machine Learning and AI .
 - 🌱 I’m currently learning deployment of Retrival Augmented Generation applications.
-- 💞️ I’m looking to collaborate on data science projects.
+- 💞️ I’m looking forward to collaborate on data science projects.
 - 📫 How to reach me karimimartin43@gmail.com
 - ⚡ I'm a Data scientist at Zindi Africa .
 
