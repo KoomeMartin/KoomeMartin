@@ -5,7 +5,7 @@
 - 📫 How to reach me <a href="mailto:karimimartin43@gmail.com">Email</a>
 - ⚡ I'm a Data scientist at <a href=https://zindi.africa/users/Koome>Zindi Africa</a> .
 
-- Check out some of my achievements in <a href=https://zindi.africa/users/Koome/competitions/certificate>Zindi</a>
+- Here are some of my achievements in <a href=https://zindi.africa/users/Koome/competitions/certificate>Zindi</a>
 
 <!---
 KoomeMartin/KoomeMartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
