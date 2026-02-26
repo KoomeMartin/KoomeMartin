@@ -1,7 +1,7 @@
 # Hi 👋 I’m Martin
 
 **AI Engineer · Data Scientist · ML Builder**
-Building practical AI systems for real‑world impact in Africa.
+Building practical AI systems for real‑world impact.
 
 ---
 
