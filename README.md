@@ -16,28 +16,13 @@ Building practical AI systems for real‑world impact in Africa.
 
 ## ⚙️ Tech Stack
 
-**Languages**
-![Python]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) "Python" width="28")
-![R]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) "R" width="28")
-![SQL]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) "SQL" width="28")
-![Bash]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) "Bash" width="28")
+**Languages** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="28" alt="R"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="Bash"/>
 
-**ML / AI**
-![PyTorch]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) "PyTorch" width="28")
-![TensorFlow]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) "TensorFlow" width="28")
-![Scikit]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg) "scikit-learn" width="28")
-![OpenCV]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg) "OpenCV" width="28")
+**ML / AI** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" alt="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV"/>
 
-**Data / Viz**
-![Pandas]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) "Pandas" width="28")
-![NumPy]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) "NumPy" width="28")
-![Matplotlib]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg) "Matplotlib" width="28")
+**Data / Viz** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="28" alt="Matplotlib"/>
 
-**MLOps / Apps**
-![Docker]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) "Docker" width="28")
-![FastAPI]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) "FastAPI" width="28")
-![Streamlit]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg) "Streamlit" width="28")
-![Git]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) "Git" width="28")
+**MLOps / Apps** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="28" alt="Streamlit"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
 
 ---
 
