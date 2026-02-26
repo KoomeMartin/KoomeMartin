@@ -34,7 +34,7 @@ Building practical AI systems for real‑world impact in Africa.
 
 ## 📫 Connect
 
-* ✉️ **[karimimartin43@gmail.com](mailto:karimimartin43@gmail.com)**
+* ✉️ **[mkoome@andrew.cmu.edu](mailto:mkoome@andrew.cmu.edu)**
 * 🏆 [https://zindi.africa/users/Koome](https://zindi.africa/users/Koome)
 
 ---
