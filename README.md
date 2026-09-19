@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Koome</h1>
-<h3 align="center">AI Engineer & Researcher · M.S. Engineering AI Graduate Student at Carnegie Mellon University Africa</h3>
+<h3 align="center">AI Engineer & Researcher · M.S. Engineering AI Student at Carnegie Mellon University Africa</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=B28A56&center=true&vCenter=true&width=650&lines=Probabilistic+Graphical+Models+%26+Applied+ML;RAG+systems+and+Agentic+AI;Wi-Fi+CSI+Sensing+for+Healthcare;Building+scalable+AI+for+real-world+impact" alt="Typing SVG" />
