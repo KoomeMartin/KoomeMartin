@@ -82,22 +82,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoomeMartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Martin's GitHub stats" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoomeMartin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoomeMartin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=KoomeMartin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoomeMartin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
+</p> -->
 
 ---
 
