@@ -12,19 +12,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 I'm currently building **contactless neonatal vital-sign monitoring** using **Wi-Fi Channel State Information (CSI)** and **deep learning** for low-resource healthcare settings.
-- 🌱 I'm deepening my expertise in **Probabilistic Graphical Models**, **Agentic AI**, and **trustworthy / secure AI systems**.
-- 👯 I'm open to collaborating on **AI for social impact** — healthcare, education, agriculture, and financial inclusion.
-- 💬 Ask me about **Machine Learning, Deep Learning, RAG systems, LLM fine-tuning, and MLOps**.
-- 🏆 Recent wins: **1st place — Umuhinzi Digital Hackathon**, **2nd place — Intron Hackathon (Sauti Yetu)**, **Top 3 — Lambda AgentBeats**.
-- 📊 **7th ranked Kenyan on Zindi** with **70+ ML challenges** completed.
-- 📫 Reach me at **mkoome@andrew.cmu.edu**
-- ⚡ Fun fact: I served as **VP of Public Relations** for the Techy Talkers Toastmasters club.
-
----
-
 ## 🌐 Connect with me
 
 <p align="left">
@@ -111,17 +98,6 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoomeMartin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
-
----
-
-## 🏅 Achievements
-
-- 🥇 **1st Place** — Umuhinzi Digital Hackathon (Umuhinzi Trust: USSD + AI voice for smallholder farmers)
-- 🥈 **2nd Place** — Intron Hackathon (Sauti Yetu: Swahili–English clinical triage assistant)
-- 🏆 **Top 3** — Lambda AgentBeats Competition (X-Detector adversarial security agent)
-- 📊 **7th Ranked Kenyan on Zindi** — 70+ ML challenges completed
-- 🎖️ **Community Spirit Award** — Carnegie Mellon University Africa
-- 🎓 **First Class Honors** — BSc Mathematics & Computer Science, Multimedia University of Kenya
 
 ---
 
